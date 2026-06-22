@@ -1,3 +1,5 @@
-# hello.py
+# Bye.py
 
-print("Bye, World!")
+print("2026.06.22 13:37Bye, World!")
+print("2026.06.22 15:52 최종으로 수정합니다.")
+print("2026.06.22 15:56 수정을 돌립니다.")
