@@ -1,3 +1,4 @@
 # Bye.py
 
-print("2026.06.22 13:38 bye Bye bye Bye, World!")
+print("Bye, World!")
+print("2026.06.22 13:48 수정"
